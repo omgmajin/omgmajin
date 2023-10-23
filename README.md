@@ -1,5 +1,4 @@
-<h1>Hi, I'm Terence! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
-
+<h1>Hi, I'm Terence! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://coursera.org/share/d52f98cf3afd2a18135e94ad3ab6bc98">Cybersecurity Professional</a>
 <h2>👨‍💻 Cyber Development Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
